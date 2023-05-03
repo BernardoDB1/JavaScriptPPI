@@ -1,0 +1,1 @@
+O JavaScript pode ser executado no console da tela de Inspeção.

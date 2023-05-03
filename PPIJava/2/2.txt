@@ -1,0 +1,11 @@
+O Elemento Window é aceito por todos os navegadores. Ele representa a janela/aba do navegador.
+"window.document.getElementById('id')"
+
+O Elemento Document representa a sua página web.
+"document.getElementById('id')"
+
+O Elemento Location pode guardar o endereço atual URL e pode redirecionar o navegador para outras páginas.
+"window.location.href"
+
+O Elemento History armazena o histórico do navegador.
+"history.forward()"
